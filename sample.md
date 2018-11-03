@@ -1,8 +1,8 @@
 You can use Git and GitHub are used for version control. 
 
-Git **manages** your files. 
+Git **manages** your files locally. 
 
-GitHub hosts your files. 
+GitHub hosts your files remotely. 
 
 But there are alternatives to GitHub.
 
