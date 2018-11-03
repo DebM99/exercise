@@ -5,3 +5,5 @@ Git **manages** your files.
 GitHub hosts your files. 
 
 But there are alternatives to GitHub.
+
+GitHub is the most popular. 
